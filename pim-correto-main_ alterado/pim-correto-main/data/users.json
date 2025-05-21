@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "username": "henrique",
+            "password": "$2b$12$LkRAkcMF.khipIQMdeG35OyqTDXbamfNitm8Xa/BZNnO2f3KjfYGS",
+            "age": 20,
+            "location": "sp",
+            "role": "admin"
+        },
+        {
+            "username": "Henrique",
+            "password": "$2b$12$GBtJ1cU5YmV3nd5IHrwVWu8a.O582G1OdNHoKL2UUoOvA9VJmx09m",
+            "age": 20,
+            "location": "SP",
+            "role": "user"
+        },
+        {
+            "username": "HENIQUE",
+            "password": "$2b$12$Zox1nioEJ.GmAJln9TsjW.wsLdrSE5u5qIBkEmiZBRm49FF7e5ZAS",
+            "age": 20,
+            "location": "sp",
+            "role": "user"
+        }
+    ]
+}
